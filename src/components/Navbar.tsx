@@ -88,7 +88,7 @@ export default function Navbar() {
                   <Moon size={20} />
                 )}
               </button>
-              <a href="https://wa.me/918085894563" target="_blank" rel="noopener noreferrer" className="btn btn-primary" style={{ padding: '0.6rem 1.2rem', fontSize: '0.9rem' }}>Get Help Now</a>
+              <a href="https://wa.me/916005168080" target="_blank" rel="noopener noreferrer" className="btn btn-primary" style={{ padding: '0.6rem 1.2rem', fontSize: '0.9rem' }}>Get Help Now</a>
             </div>
           </div>
 
@@ -146,7 +146,7 @@ export default function Navbar() {
           ))}
         </div>
         
-        <a href="https://wa.me/918085894563" target="_blank" rel="noopener noreferrer" onClick={() => setIsOpen(false)} className="btn btn-primary" style={{ width: '100%' }}>
+        <a href="https://wa.me/916005168080" target="_blank" rel="noopener noreferrer" onClick={() => setIsOpen(false)} className="btn btn-primary" style={{ width: '100%' }}>
           Get Help Now
         </a>
       </div>

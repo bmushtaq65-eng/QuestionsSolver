@@ -115,7 +115,7 @@ export default function Pricing() {
                               <li><i className="fa-solid fa-circle-xmark" style={{ color: 'var(--danger)', marginRight: '8px' }}></i> CAD / mechanical simulations</li>
                           </ul>
                       </div>
-                      <a href="https://wa.me/918085894563?text=Hi,%20I'm%20interested%20in%20the%20High%20School%20package" target="_blank" rel="noopener noreferrer" className="btn btn-secondary" style={{ width: '100%' }}>Get Started</a>
+                      <a href="https://wa.me/916005168080?text=Hi,%20I'm%20interested%20in%20the%20High%20School%20package" target="_blank" rel="noopener noreferrer" className="btn btn-secondary" style={{ width: '100%' }}>Get Started</a>
                   </div>
 
                   <div className="card-premium pricing-tier" style={{ borderColor: 'var(--primary)', boxShadow: 'var(--shadow-xl)', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }} data-aos="fade-up" data-aos-delay="200">
@@ -129,7 +129,7 @@ export default function Pricing() {
                               <li><i className="fa-solid fa-circle-check" style={{ color: 'var(--success)', marginRight: '8px' }}></i> Free step-by-step revision edits</li>
                           </ul>
                       </div>
-                      <a href="https://wa.me/918085894563?text=Hi,%20I'm%20interested%20in%20the%20College%20package" target="_blank" rel="noopener noreferrer" className="btn btn-primary" style={{ width: '100%' }}>Get Started <i className="fa-solid fa-rocket"></i></a>
+                      <a href="https://wa.me/916005168080?text=Hi,%20I'm%20interested%20in%20the%20College%20package" target="_blank" rel="noopener noreferrer" className="btn btn-primary" style={{ width: '100%' }}>Get Started <i className="fa-solid fa-rocket"></i></a>
                   </div>
 
                   <div className="card-premium pricing-tier" data-aos="fade-up" data-aos-delay="300" style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
@@ -143,7 +143,7 @@ export default function Pricing() {
                               <li><i className="fa-solid fa-circle-check" style={{ color: 'var(--success)', marginRight: '8px' }}></i> Direct academic call support</li>
                           </ul>
                       </div>
-                      <a href="https://wa.me/918085894563?text=Hi,%20I'm%20interested%20in%20the%20PhD%20package" target="_blank" rel="noopener noreferrer" className="btn btn-secondary" style={{ width: '100%' }}>Get Started</a>
+                      <a href="https://wa.me/916005168080?text=Hi,%20I'm%20interested%20in%20the%20PhD%20package" target="_blank" rel="noopener noreferrer" className="btn btn-secondary" style={{ width: '100%' }}>Get Started</a>
                   </div>
               </div>
           </div>
