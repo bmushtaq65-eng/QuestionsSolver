@@ -19,8 +19,10 @@ export default function Footer() {
                         </div>
                         <a href="mailto:QUESTIONSSOLVER500@GMAIL.COM" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-regular fa-envelope" style={{ color: 'var(--primary)' }}></i> QUESTIONSSOLVER500@GMAIL.COM</a>
                         <a href="https://wa.me/918085894563" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-brands fa-whatsapp" style={{ color: '#25D366' }}></i> +91 8085 894 563</a>
+                        <a href="https://t.me/+918085894563" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-brands fa-telegram" style={{ color: '#229ED9' }}></i> +91 8085 894 563</a>
                     </div>
                     <div className="social-links" style={{ display: 'flex', gap: '10px' }}>
+                        <a href="https://t.me/+918085894563" target="_blank" rel="noopener noreferrer" className="social-link flex-center" aria-label="Telegram" style={{ color: '#229ED9' }}><i className="fa-brands fa-telegram"></i></a>
                         <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="social-link flex-center" aria-label="Facebook"><i className="fa-brands fa-facebook-f"></i></a>
                         <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="social-link flex-center" aria-label="Twitter"><i className="fa-brands fa-twitter"></i></a>
                         <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-link flex-center" aria-label="LinkedIn"><i className="fa-brands fa-linkedin-in"></i></a>
