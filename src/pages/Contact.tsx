@@ -29,7 +29,7 @@ export default function Contact() {
                           </div>
                           <div>
                               <h5 style={{ fontFamily: "'Outfit', sans-serif", fontSize: '1rem', marginBottom: '6px' }}>Chat on WhatsApp</h5>
-                              <a href="https://wa.me/916005168080" style={{ fontWeight: 700, color: 'var(--text-primary)', marginTop: '4px', textDecoration: 'none', display: 'block' }}>+91 6005 168 080</a>
+                              <a href="https://wa.me/918085894563" style={{ fontWeight: 700, color: 'var(--text-primary)', marginTop: '4px', textDecoration: 'none', display: 'block' }}>+91 8085 894 563</a>
                               <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Average response time: 2 Minutes</p>
                           </div>
                       </div>
@@ -81,7 +81,7 @@ export default function Contact() {
                           
                           const text = `*New Assignment Query*\n\n*Name:* ${name}\n*Email:* ${email}\n*Phone:* ${phone}\n*Subject:* ${subject}\n\n*Message:*\n${message}`;
                           const encodedText = encodeURIComponent(text);
-                          window.open(`https://wa.me/916005168080?text=${encodedText}`, '_blank');
+                          window.open(`https://wa.me/918085894563?text=${encodedText}`, '_blank');
                       }}>
                           <div style={{ marginBottom: '20px' }}>
                               <label style={{ display: 'block', fontWeight: 700, marginBottom: '8px', fontSize: '0.9rem', fontFamily: "'Outfit', sans-serif" }} htmlFor="form-name">Your Full Name</label>
