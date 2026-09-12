@@ -11,7 +11,7 @@ export default function FinalCTA() {
                     <p>Get in touch with an expert now. Share your requirements and we will respond with details and price structures within minutes.</p>
                     <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap' }}>
                         <Link to="/contact" className="btn btn-primary">Fill Query Form</Link>
-                        <a href="https://wa.me/916005168080" target="_blank" rel="noopener noreferrer" className="btn" style={{ backgroundColor: 'rgba(37, 211, 102, 0.1)', border: '1px solid rgba(37, 211, 102, 0.3)', color: '#25D366' }}>
+                        <a href="https://wa.me/918085894563" target="_blank" rel="noopener noreferrer" className="btn" style={{ backgroundColor: 'rgba(37, 211, 102, 0.1)', border: '1px solid rgba(37, 211, 102, 0.3)', color: '#25D366' }}>
                             <i className="fa-brands fa-whatsapp"></i> Chat on WhatsApp
                         </a>
                     </div>
