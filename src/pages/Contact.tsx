@@ -29,8 +29,19 @@ export default function Contact() {
                           </div>
                           <div>
                               <h5 style={{ fontFamily: "'Outfit', sans-serif", fontSize: '1rem', marginBottom: '6px' }}>Chat on WhatsApp</h5>
-                              <a href="https://wa.me/918085894563" style={{ fontWeight: 700, color: 'var(--text-primary)', marginTop: '4px', textDecoration: 'none', display: 'block' }}>+91 8085 894 563</a>
+                              <a href="https://wa.me/918085894563" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 700, color: 'var(--text-primary)', marginTop: '4px', textDecoration: 'none', display: 'block' }}>+91 8085 894 563</a>
                               <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Average response time: 2 Minutes</p>
+                          </div>
+                      </div>
+
+                      <div style={{ display: 'flex', alignItems: 'flex-start', gap: '20px', marginBottom: '30px' }}>
+                          <div className="flex-center" style={{ width: '50px', height: '50px', borderRadius: 'var(--radius-md)', background: 'rgba(34, 158, 217, 0.1)', color: '#229ED9', fontSize: '1.25rem', flexShrink: 0 }}>
+                              <i className="fa-brands fa-telegram"></i>
+                          </div>
+                          <div>
+                              <h5 style={{ fontFamily: "'Outfit', sans-serif", fontSize: '1rem', marginBottom: '6px' }}>Chat on Telegram</h5>
+                              <a href="https://t.me/+918085894563" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 700, color: 'var(--text-primary)', marginTop: '4px', textDecoration: 'none', display: 'block' }}>+91 8085 894 563</a>
+                              <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Instant messaging & group support</p>
                           </div>
                       </div>
 
