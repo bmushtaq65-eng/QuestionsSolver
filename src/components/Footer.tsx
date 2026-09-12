@@ -18,7 +18,7 @@ export default function Footer() {
                             <span>Ward No. 33 Mahaveer Puram Colony<br />Datia, Madhya Pradesh</span>
                         </div>
                         <a href="mailto:QUESTIONSSOLVER500@GMAIL.COM" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-regular fa-envelope" style={{ color: 'var(--primary)' }}></i> QUESTIONSSOLVER500@GMAIL.COM</a>
-                        <a href="https://wa.me/916005168080" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-brands fa-whatsapp" style={{ color: '#25D366' }}></i> +91 6005 168 080</a>
+                        <a href="https://wa.me/918085894563" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-brands fa-whatsapp" style={{ color: '#25D366' }}></i> +91 8085 894 563</a>
                     </div>
                     <div className="social-links" style={{ display: 'flex', gap: '10px' }}>
                         <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="social-link flex-center" aria-label="Facebook"><i className="fa-brands fa-facebook-f"></i></a>
