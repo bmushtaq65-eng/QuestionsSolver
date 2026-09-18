@@ -65,6 +65,9 @@ export default function Hero() {
               <Link to="/contact" className="btn btn-primary pulse-glow">
                 Get Expert Help <ArrowRight size={18} />
               </Link>
+              <a href="https://t.me/Questionssolver" target="_blank" rel="noopener noreferrer" className="btn btn-secondary" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+                <i className="fa-brands fa-telegram" style={{ color: '#229ED9', fontSize: '1.2rem' }}></i> Join Telegram Group
+              </a>
             </div>
           </div>
 
