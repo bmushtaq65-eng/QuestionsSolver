@@ -14,8 +14,8 @@ export default function FinalCTA() {
                         <a href="https://wa.me/918085894563" target="_blank" rel="noopener noreferrer" className="btn" style={{ backgroundColor: 'rgba(37, 211, 102, 0.1)', border: '1px solid rgba(37, 211, 102, 0.3)', color: '#25D366' }}>
                             <i className="fa-brands fa-whatsapp"></i> Chat on WhatsApp
                         </a>
-                        <a href="https://t.me/+918085894563" target="_blank" rel="noopener noreferrer" className="btn" style={{ backgroundColor: 'rgba(34, 158, 217, 0.1)', border: '1px solid rgba(34, 158, 217, 0.3)', color: '#229ED9' }}>
-                            <i className="fa-brands fa-telegram"></i> Chat on Telegram
+                        <a href="https://t.me/Questionssolver" target="_blank" rel="noopener noreferrer" className="btn" style={{ backgroundColor: 'rgba(34, 158, 217, 0.1)', border: '1px solid rgba(34, 158, 217, 0.3)', color: '#229ED9' }}>
+                            <i className="fa-brands fa-telegram"></i> Join Telegram Group
                         </a>
                     </div>
                 </div>
