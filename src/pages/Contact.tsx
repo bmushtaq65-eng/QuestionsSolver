@@ -67,16 +67,6 @@ export default function Contact() {
                           </div>
                       </div>
 
-                      <div style={{ display: 'flex', alignItems: 'flex-start', gap: '20px', marginBottom: '30px' }}>
-                          <div className="flex-center" style={{ width: '50px', height: '50px', borderRadius: 'var(--radius-md)', background: 'rgba(16, 185, 129, 0.1)', color: '#10B981', fontSize: '1.25rem', flexShrink: 0 }}>
-                              <i className="fa-solid fa-location-dot"></i>
-                          </div>
-                          <div>
-                              <h5 style={{ fontFamily: "'Outfit', sans-serif", fontSize: '1rem', marginBottom: '6px' }}>Location</h5>
-                              <p style={{ fontWeight: 700, color: 'var(--text-primary)', marginTop: '4px' }}>Ward No. 33 Mahaveer Puram Colony</p>
-                              <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Datia, Madhya Pradesh</p>
-                          </div>
-                      </div>
                   </div>
 
                   <div className="card-premium glass-panel" data-aos="fade-left">
