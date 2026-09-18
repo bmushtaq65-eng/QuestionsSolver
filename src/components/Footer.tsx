@@ -16,9 +16,10 @@ export default function Footer() {
                         <a href="mailto:QUESTIONSSOLVER500@GMAIL.COM" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-regular fa-envelope" style={{ color: 'var(--primary)' }}></i> QUESTIONSSOLVER500@GMAIL.COM</a>
                         <a href="https://wa.me/918085894563" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-brands fa-whatsapp" style={{ color: '#25D366' }}></i> +91 8085 894 563</a>
                         <a href="https://t.me/+918085894563" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-brands fa-telegram" style={{ color: '#229ED9' }}></i> +91 8085 894 563</a>
+                        <a href="https://t.me/Questionssolver" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-solid fa-users" style={{ color: '#229ED9' }}></i> Telegram Group: @Questionssolver</a>
                     </div>
                     <div className="social-links" style={{ display: 'flex', gap: '10px' }}>
-                        <a href="https://t.me/+918085894563" target="_blank" rel="noopener noreferrer" className="social-link flex-center" aria-label="Telegram" style={{ color: '#229ED9' }}><i className="fa-brands fa-telegram"></i></a>
+                        <a href="https://t.me/Questionssolver" target="_blank" rel="noopener noreferrer" className="social-link flex-center" aria-label="Telegram Group" title="Telegram Group: @Questionssolver" style={{ color: '#229ED9' }}><i className="fa-brands fa-telegram"></i></a>
                         <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="social-link flex-center" aria-label="Facebook"><i className="fa-brands fa-facebook-f"></i></a>
                         <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="social-link flex-center" aria-label="Twitter"><i className="fa-brands fa-twitter"></i></a>
                         <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-link flex-center" aria-label="LinkedIn"><i className="fa-brands fa-linkedin-in"></i></a>
@@ -40,6 +41,7 @@ export default function Footer() {
                     <h4 className="footer-heading" style={{ marginBottom: '1.5rem', color: 'var(--primary)' }}>Support</h4>
                     <ul className="footer-links" style={{ listStyle: 'none', padding: 0, display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
                         <li><Link to="/faq" className="footer-link">Help & FAQs</Link></li>
+                        <li><a href="https://t.me/Questionssolver" target="_blank" rel="noopener noreferrer" className="footer-link">Telegram Community</a></li>
                         <li><Link to="/contact" className="footer-link">Contact Support</Link></li>
                         <li><Link to="/privacy" className="footer-link">Privacy Policy</Link></li>
                         <li><Link to="/terms" className="footer-link">Terms of Service</Link></li>
