@@ -13,10 +13,6 @@ export default function Footer() {
                     </Link>
                     <p className="footer-desc" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', marginBottom: '1rem', lineHeight: '1.6' }}>Empowering students through high-quality, academic mentorship and tutoring. Your gateway to higher grades and deep understanding.</p>
                     <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', marginBottom: '1.5rem' }}>
-                        <div style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'flex-start', gap: '8px' }}>
-                            <i className="fa-solid fa-location-dot" style={{ marginTop: '4px', color: '#10B981' }}></i> 
-                            <span>Ward No. 33 Mahaveer Puram Colony<br />Datia, Madhya Pradesh</span>
-                        </div>
                         <a href="mailto:QUESTIONSSOLVER500@GMAIL.COM" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-regular fa-envelope" style={{ color: 'var(--primary)' }}></i> QUESTIONSSOLVER500@GMAIL.COM</a>
                         <a href="https://wa.me/918085894563" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-brands fa-whatsapp" style={{ color: '#25D366' }}></i> +91 8085 894 563</a>
                         <a href="https://t.me/+918085894563" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}><i className="fa-brands fa-telegram" style={{ color: '#229ED9' }}></i> +91 8085 894 563</a>
