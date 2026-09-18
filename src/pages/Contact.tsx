@@ -41,7 +41,18 @@ export default function Contact() {
                           <div>
                               <h5 style={{ fontFamily: "'Outfit', sans-serif", fontSize: '1rem', marginBottom: '6px' }}>Chat on Telegram</h5>
                               <a href="https://t.me/+918085894563" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 700, color: 'var(--text-primary)', marginTop: '4px', textDecoration: 'none', display: 'block' }}>+91 8085 894 563</a>
-                              <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Instant messaging & group support</p>
+                              <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Direct messaging & support</p>
+                          </div>
+                      </div>
+
+                      <div style={{ display: 'flex', alignItems: 'flex-start', gap: '20px', marginBottom: '30px' }}>
+                          <div className="flex-center" style={{ width: '50px', height: '50px', borderRadius: 'var(--radius-md)', background: 'rgba(34, 158, 217, 0.15)', color: '#229ED9', fontSize: '1.25rem', flexShrink: 0 }}>
+                              <i className="fa-solid fa-users"></i>
+                          </div>
+                          <div>
+                              <h5 style={{ fontFamily: "'Outfit', sans-serif", fontSize: '1rem', marginBottom: '6px' }}>Telegram Discussion Group</h5>
+                              <a href="https://t.me/Questionssolver" target="_blank" rel="noopener noreferrer" style={{ fontWeight: 700, color: 'var(--text-primary)', marginTop: '4px', textDecoration: 'none', display: 'block' }}>@Questionssolver</a>
+                              <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Join our student community for queries & resources</p>
                           </div>
                       </div>
 
